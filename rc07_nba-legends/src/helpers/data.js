@@ -1,7 +1,7 @@
 export const data = [
   {
-    name: "Kareem Abdul-Jabbar",
-    img: "https://efemeridesdoefemello.files.wordpress.com/2014/05/13jun14.jpeg?w=640",
+    name: "Stephen Curry",
+    img: "https://pbs.twimg.com/media/Fv0MEDpacAEi7iu.jpg:large",
     statistics: [
       "38,387 points",
       "17,440 rebaunds",
@@ -10,8 +10,8 @@ export const data = [
     ],
   },
   {
-    name: "Larry Bird",
-    img: "https://cdn.vox-cdn.com/thumbor/8yWTZWnt03DGQkU9ZVdGluZWqRM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23373244/147497571.jpg",
+    name: "Lebron James",
+    img: "https://cdn.britannica.com/19/233519-050-F0604A51/LeBron-James-Los-Angeles-Lakers-Staples-Center-2019.jpg",
     statistics: [
       "21,791 points",
       "8,974 rebaunds",
@@ -20,8 +20,8 @@ export const data = [
     ],
   },
   {
-    name: "Wilt Chamberlain",
-    img: "https://pbs.twimg.com/media/EQwzU_RXUAAAATG?format=jpg&name=4096x4096",
+    name: "Ben Wallace",
+    img: "https://www.detroitnews.com/gcdn/presto/2018/10/12/PDTN/c6ca0116-ab8a-4f3c-9833-d60c69d62c68-PISTONS-WALLACE.jpg?width=660&height=814&fit=crop&format=pjpg&auto=webp",
     statistics: [
       "31,419 points",
       "23,924 rebaunds",
@@ -30,8 +30,8 @@ export const data = [
     ],
   },
   {
-    name: "Magic Johnson",
-    img: "https://cdn.britannica.com/27/189527-050-5BAD12C2/Magic-Johnson.jpg",
+    name: "Jermaine O'neal",
+    img: "https://www.enterprisenews.com/gcdn/authoring/2010/07/08/NENT/ghows-WL-b7a11195-2d4c-4911-a135-448dfa6db09e-b0a7bb4e.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp",
     statistics: [
       "17,707 points",
       "6,559 rebaunds",
@@ -50,8 +50,8 @@ export const data = [
     ],
   },
   {
-    name: "Karl Malone",
-    img: "https://i.pinimg.com/564x/49/76/10/497610981fdbe0158ba09b5c8418d87d--nba-players-basketball-players.jpg",
+    name: "Kevin Garnett",
+    img: "https://cdn.vox-cdn.com/thumbor/_44i4unv7N3X02S6k_J8omvNP1o=/0x0:3160x4740/1200x0/filters:focal(0x0:3160x4740):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23310683/162622873.jpg",
     statistics: [
       "36,928 points",
       "14,968 rebaunds",
@@ -60,8 +60,8 @@ export const data = [
     ],
   },
   {
-    name: "Hakeem Olajuwon",
-    img: "https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/1000x1000/hakeem-olajuwon-von-den-houston-rockets.jpg",
+    name: "Tracy McGrady",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tracy_McGrady_1.jpg/800px-Tracy_McGrady_1.jpg",
     statistics: [
       "26,946 points",
       "13,748 rebaunds",
@@ -80,8 +80,8 @@ export const data = [
     ],
   },
   {
-    name: "Scottie Pippen",
-    img: "https://basketballforever.com/wp-content/uploads/2020/04/Scottie-Pippen-Chicago-Bulls.jpg",
+    name: "Vince Carter",
+    img: "https://www.news-journalonline.com/gcdn/-mm-/35a176c1fb8eead9246d504a95d28e4414ad1d52/c=84-0-1366-1710/local/-/media/2020/08/17/DaytonaBeach/ghows-LK-200628799-16ce5040.jpg",
     statistics: [
       "18,940 points",
       "7,494 rebaunds",
@@ -90,8 +90,8 @@ export const data = [
     ],
   },
   {
-    name: "Patrick Ewing",
-    img: "https://cdn.britannica.com/37/231237-050-0CB78D66/Patrick-Ewing-New-York-Knicks-1986.jpg",
+    name: "Paul Pierce",
+    img: "https://upload.wikimedia.org/wikipedia/commons/5/58/Paul_Pierce_2008-01-13.jpg",
     statistics: [
       "24,815 points",
       "11,607 rebaunds",
@@ -110,8 +110,8 @@ export const data = [
     ],
   },
   {
-    name: "Charles Barkley",
-    img: "https://freshairarchive.org/sites/default/files/styles/square_800/public/2021-08/CharlesBarkley.jpg?itok=lkOGUQ2t",
+    name: "Nikola Jokic",
+    img: "https://assets1.cbsnewsstatic.com/hub/i/r/2021/10/27/11674974-165e-4768-a22c-1f28603fffe2/thumbnail/640x660/ad8a1208dfa006c554dce6044813a3c7/nikola-jokic-2-1.jpg?v=86db2ab42e1f4996c0f037a20ce5a325",
     statistics: [
       "23,757 points",
       "12,546 rebaunds",
