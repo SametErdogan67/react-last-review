@@ -30,7 +30,7 @@ const EditTutorial = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default EditTutorial
+export default EditTutorial;
